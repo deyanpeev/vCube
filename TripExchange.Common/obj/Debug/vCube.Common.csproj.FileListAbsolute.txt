@@ -1,0 +1,10 @@
+D:\Deyan Peev Projects\Training\Angular\Skeleton\TripExchange.Common\bin\Debug\TripExchange.Common.dll
+D:\Deyan Peev Projects\Training\Angular\Skeleton\TripExchange.Common\bin\Debug\TripExchange.Common.pdb
+D:\Deyan Peev Projects\Training\Angular\Skeleton\TripExchange.Common\obj\Debug\vCube.Common.csprojResolveAssemblyReference.cache
+D:\Deyan Peev Projects\Training\Angular\Skeleton\TripExchange.Common\obj\Debug\TripExchange.Common.dll
+D:\Deyan Peev Projects\Training\Angular\Skeleton\TripExchange.Common\obj\Debug\TripExchange.Common.pdb
+D:\Deyan Peev Projects\Training\Angular\FullAngularApp\Skeleton\TripExchange.Common\bin\Debug\TripExchange.Common.dll
+D:\Deyan Peev Projects\Training\Angular\FullAngularApp\Skeleton\TripExchange.Common\bin\Debug\TripExchange.Common.pdb
+D:\Deyan Peev Projects\Training\Angular\FullAngularApp\Skeleton\TripExchange.Common\obj\Debug\vCube.Common.csprojResolveAssemblyReference.cache
+D:\Deyan Peev Projects\Training\Angular\FullAngularApp\Skeleton\TripExchange.Common\obj\Debug\TripExchange.Common.dll
+D:\Deyan Peev Projects\Training\Angular\FullAngularApp\Skeleton\TripExchange.Common\obj\Debug\TripExchange.Common.pdb
