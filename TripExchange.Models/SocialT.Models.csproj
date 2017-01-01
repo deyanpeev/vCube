@@ -59,9 +59,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TripExchange.Common\SocialUnion.Common.csproj">
+    <ProjectReference Include="..\TripExchange.Common\SocialT.Common.csproj">
       <Project>{66158f75-1774-4a77-81db-540ad9f3e5b4}</Project>
-      <Name>SocialUnion.Common</Name>
+      <Name>SocialT.Common</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -62,9 +62,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TripExchange.Models\SocialUnion.Models.csproj">
+    <ProjectReference Include="..\TripExchange.Models\SocialT.Models.csproj">
       <Project>{A3E05C27-E8F6-4510-B9C5-7D2DDE3B6AED}</Project>
-      <Name>SocialUnion.Models</Name>
+      <Name>SocialT.Models</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

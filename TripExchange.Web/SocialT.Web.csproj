@@ -20,6 +20,7 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -330,17 +331,17 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TripExchange.Common\SocialUnion.Common.csproj">
+    <ProjectReference Include="..\TripExchange.Common\SocialT.Common.csproj">
       <Project>{66158f75-1774-4a77-81db-540ad9f3e5b4}</Project>
-      <Name>SocialUnion.Common</Name>
+      <Name>SocialT.Common</Name>
     </ProjectReference>
-    <ProjectReference Include="..\TripExchange.Data\SocialUnion.Data.csproj">
+    <ProjectReference Include="..\TripExchange.Data\SocialT.Data.csproj">
       <Project>{C4F20351-DE3A-4F6D-B20A-E6680CEBE50B}</Project>
-      <Name>SocialUnion.Data</Name>
+      <Name>SocialT.Data</Name>
     </ProjectReference>
-    <ProjectReference Include="..\TripExchange.Models\SocialUnion.Models.csproj">
+    <ProjectReference Include="..\TripExchange.Models\SocialT.Models.csproj">
       <Project>{A3E05C27-E8F6-4510-B9C5-7D2DDE3B6AED}</Project>
-      <Name>SocialUnion.Models</Name>
+      <Name>SocialT.Models</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
