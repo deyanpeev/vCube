@@ -1,0 +1,16 @@
+D:\Deyan Peev Projects\Training\Angular\Skeleton\TripExchange.Data\bin\Debug\TripExchange.Data.dll.config
+D:\Deyan Peev Projects\Training\Angular\Skeleton\TripExchange.Data\bin\Debug\TripExchange.Data.dll
+D:\Deyan Peev Projects\Training\Angular\Skeleton\TripExchange.Data\bin\Debug\TripExchange.Data.pdb
+D:\Deyan Peev Projects\Training\Angular\Skeleton\TripExchange.Data\bin\Debug\EntityFramework.dll
+D:\Deyan Peev Projects\Training\Angular\Skeleton\TripExchange.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Deyan Peev Projects\Training\Angular\Skeleton\TripExchange.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Deyan Peev Projects\Training\Angular\Skeleton\TripExchange.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Deyan Peev Projects\Training\Angular\Skeleton\TripExchange.Data\bin\Debug\TripExchange.Models.dll
+D:\Deyan Peev Projects\Training\Angular\Skeleton\TripExchange.Data\bin\Debug\TripExchange.Models.pdb
+D:\Deyan Peev Projects\Training\Angular\Skeleton\TripExchange.Data\bin\Debug\EntityFramework.xml
+D:\Deyan Peev Projects\Training\Angular\Skeleton\TripExchange.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Deyan Peev Projects\Training\Angular\Skeleton\TripExchange.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Deyan Peev Projects\Training\Angular\Skeleton\TripExchange.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Deyan Peev Projects\Training\Angular\Skeleton\TripExchange.Data\obj\Debug\vCube.Data.csprojResolveAssemblyReference.cache
+D:\Deyan Peev Projects\Training\Angular\Skeleton\TripExchange.Data\obj\Debug\TripExchange.Data.dll
+D:\Deyan Peev Projects\Training\Angular\Skeleton\TripExchange.Data\obj\Debug\TripExchange.Data.pdb
